@@ -1,0 +1,187 @@
+[
+  {
+    "state": "Adamawa",
+    "alias": "adamawa",
+    "id": 1
+  },
+  {
+    "state": "Akwa Ibom",
+    "alias": "akwa_ibom",
+    "id": 2
+  },
+  {
+    "state": "Anambra",
+    "alias": "anambra",
+    "id": 3
+  },
+  {
+    "state": "Ogun",
+    "alias": "ogun",
+    "id": 4
+  },
+  {
+    "state": "Ondo",
+    "alias": "ondo",
+    "id": 5
+  },
+  {
+    "state": "Rivers",
+    "alias": "rivers",
+    "id": 6
+  },
+  {
+    "state": "Bauchi",
+    "alias": "bauchi",
+    "id": 7
+  },
+  {
+    "state": "Benue",
+    "alias": "benue",
+    "id": 8
+  },
+  {
+    "state": "Borno",
+    "alias": "borno",
+    "id": 9
+  },
+  {
+    "state": "Bayelsa",
+    "alias": "bayelsa",
+    "id": 10
+  },
+  {
+    "state": "Cross River",
+    "alias": "cross_river",
+    "id": 11
+  },
+  {
+    "state": "Delta",
+    "alias": "delta",
+    "id": 12
+  },
+  {
+    "state": "Ebonyi",
+    "alias": "ebonyi",
+    "id": 13
+  },
+  {
+    "state": "Edo",
+    "alias": "edo",
+    "id": 14
+  },
+  {
+    "state": "Ekiti",
+    "alias": "ekiti",
+    "id": 15
+  },
+  {
+    "state": "Enugu",
+    "alias": "enugu",
+    "id": 16
+  },
+  {
+    "state": "Federal Capital Territory",
+    "alias": "abuja",
+    "id": 17
+  },
+  {
+    "state": "Gombe",
+    "alias": "gombe",
+    "id": 18
+  },
+  {
+    "state": "Jigawa",
+    "alias": "jigawa",
+    "id": 19
+  },
+  {
+    "state": "Oyo",
+    "alias": "oyo",
+    "id": 20
+  },
+  {
+    "state": "Imo",
+    "alias": "imo",
+    "id": 21
+  },
+  {
+    "state": "Kaduna",
+    "alias": "kaduna",
+    "id": 22
+  },
+  {
+    "state": "Kebbi",
+    "alias": "kebbi",
+    "id": 23
+  },
+  {
+    "state": "Kano",
+    "alias": "kano",
+    "id": 24
+  },
+  {
+    "state": "Kogi",
+    "alias": "kogi",
+    "id": 25
+  },
+  {
+    "state": "Osun",
+    "alias": "osun",
+    "id": 26
+  },
+  {
+    "state": "Sokoto",
+    "alias": "sokoto",
+    "id": 27
+  },
+  {
+    "state": "Plateau",
+    "alias": "plateau",
+    "id": 28
+  },
+  {
+    "state": "Taraba",
+    "alias": "taraba",
+    "id": 29
+  },
+  {
+    "state": "Yobe",
+    "alias": "yobe",
+    "id": 30
+  },
+  {
+    "state": "Zamfara",
+    "alias": "zamfara",
+    "id": 31
+  },
+  {
+    "state": "Lagos",
+    "alias": "lagos",
+    "id": 32
+  },
+  {
+    "state": "Katsina",
+    "alias": "katsina",
+    "id": 33
+  },
+  {
+    "state": "Kwara",
+    "alias": "kwara",
+    "id": 34
+  },
+  {
+    "state": "Nasarawa",
+    "alias": "nasarawa",
+    "id": 35
+  },
+  {
+    "state": "Niger",
+    "alias": "niger",
+    "id": 36
+  },
+  {
+    "state": "Abia",
+    "alias": "abia",
+    "id": 37
+  }
+]

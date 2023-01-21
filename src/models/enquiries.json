@@ -1,0 +1,56 @@
+[
+  {
+    "firstName": "Ashton",
+    "lastName": "Randall",
+    "email": "hapyqasa@mailinator.com",
+    "phoneNumber": "+1 (946) 128-2639",
+    "state": "Akwa Ibom",
+    "hasAcceptedPolicy": true,
+    "message": "Voluptas qui similiq"
+  },
+  {
+    "firstName": "Ashton",
+    "lastName": "Randall",
+    "email": "m@gmail.com",
+    "phoneNumber": "+1 (946) 128-2639",
+    "state": "Akwa Ibom",
+    "hasAcceptedPolicy": true,
+    "message": "Voluptas qui similiq"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Snyder",
+    "email": "borany@mailinator.com",
+    "phoneNumber": "+1 (156) 952-3669",
+    "state": "Yobe",
+    "hasAcceptedPolicy": true,
+    "message": "Dolores qui mollit d"
+  },
+  {
+    "firstName": "Jael",
+    "lastName": "Burris",
+    "email": "m@gmail.com",
+    "phoneNumber": "+1 (861) 317-4059",
+    "state": "Kwara",
+    "hasAcceptedPolicy": true,
+    "message": "Mollit aut consequat"
+  },
+  {
+    "firstName": "Raja",
+    "lastName": "Koch",
+    "email": "lixajisut@mailinator.com",
+    "phoneNumber": "+1 (481) 716-9653",
+    "state": "Oyo",
+    "hasAcceptedPolicy": true,
+    "message": "Dolore magnam ad exc"
+  },
+  {
+    "firstName": "Madaline",
+    "lastName": "Wong",
+    "email": "m@gmail.com",
+    "phoneNumber": "+1 (976) 304-9733",
+    "state": "Osun",
+    "hasAcceptedPolicy": true,
+    "message": "Sit odio perspiciat"
+  }
+]
